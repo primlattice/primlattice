@@ -6,6 +6,6 @@ Feel free to look through and test the selection of modules I have uploaded here
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Original_PacMan.svg" alt="image" />
 
-My email is bbrown_15@yahoo.co.uk, contact me anytime. ![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Original_PacMan.svg)
+My email is bbrown_15@yahoo.co.uk, contact me anytime.
 
 To anyone still reading this, please have a fantastic day/evening.
