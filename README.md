@@ -4,8 +4,6 @@ Having studied data science on a skills bootcamp with [@HyperionDev](https://git
 
 Feel free to look through and test the selection of modules I have uploaded here and, if you have any queries, please don't hestitate to reach out to me.
 
-My email is bbrown_15@yahoo.co.uk, contact me anytime.
+My email is bbrown_15@yahoo.co.uk, contact me anytime. ![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Original_PacMan.svg)
 
-To anyone still reading this, please have a fantastic day/evening. 
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Original_PacMan.svg)
+To anyone still reading this, please have a fantastic day/evening.
